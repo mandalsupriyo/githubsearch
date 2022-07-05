@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/githubsearch/static/css/main.ae8ec85a.chunk.css",
+    "main.js": "/githubsearch/static/js/main.469d3a70.chunk.js",
+    "main.js.map": "/githubsearch/static/js/main.469d3a70.chunk.js.map",
+    "runtime~main.js": "/githubsearch/static/js/runtime~main.5c46d1be.js",
+    "runtime~main.js.map": "/githubsearch/static/js/runtime~main.5c46d1be.js.map",
+    "static/js/2.7a0f2d9d.chunk.js": "/githubsearch/static/js/2.7a0f2d9d.chunk.js",
+    "static/js/2.7a0f2d9d.chunk.js.map": "/githubsearch/static/js/2.7a0f2d9d.chunk.js.map",
+    "index.html": "/githubsearch/index.html",
+    "precache-manifest.bac3081cd3cc6cdfb434776c36b09176.js": "/githubsearch/precache-manifest.bac3081cd3cc6cdfb434776c36b09176.js",
+    "service-worker.js": "/githubsearch/service-worker.js",
+    "static/css/main.ae8ec85a.chunk.css.map": "/githubsearch/static/css/main.ae8ec85a.chunk.css.map",
+    "static/media/spinner.gif": "/githubsearch/static/media/spinner.21cf2782.gif"
+  }
+}
